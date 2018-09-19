@@ -1,3 +1,5 @@
 ro.arch=universal8895
 ro.chipname=universal8895
+persist.service.adb.enable=1                                                    
+persist.service.debuggable=1
 persist.sys.usb.config=mtp,adb
