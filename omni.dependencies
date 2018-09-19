@@ -1,7 +1,7 @@
 [
 	{
 		"remote":"github",
-		"repository":"devkingsteam/android_kernel_samsung_universal8895",
+		"repository":"TwrpBuilderTests/android_kernel_samsung_universal8895",
 		"target_path":"kernel/samsung/universal8895",
 		"revision":"twrp-se9.0"
 	}
