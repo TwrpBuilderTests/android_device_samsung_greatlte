@@ -77,3 +77,5 @@ RECOVERY_GRAPHICS_USE_LINELENGTH := true
 # Include
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/greatlte/include
 
+# SELinux Policies
+BOARD_SEPOLICY_DIRS := device/samsung/greatlte/sepolicy
